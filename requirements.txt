@@ -1,0 +1,5 @@
+deeplake[all]
+langchain
+openai
+tiktoken
+wolframalpha
